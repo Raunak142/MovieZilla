@@ -1,13 +1,14 @@
+import Body from "./components/Body"
 
 
 function App() {
 
 
   return (
-    <>
-      <p className='text-5xl text-yellow-600'>helloo world</p>
-    </>
-  )
-}
+    
+       <Body/>
+    
+  );
+};
 
 export default App
